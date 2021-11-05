@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! 👋
 
 My name is Darren Seubert, and I am a Computer Sciences and Data Science major at the University of Wisconsin-Madison!
 Some topics that intersest me are robotics, artificial intelligence, and data analysis.
