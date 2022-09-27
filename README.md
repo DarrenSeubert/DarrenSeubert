@@ -1,10 +1,9 @@
 ### Hey! 👋
 
-My name is Darren Seubert, and I am a Computer Sciences and Data Science major at the University of Wisconsin-Madison!
+My name is Darren Seubert, and I am a Computer Sciences, Data Science, and Mathematics major at the University of Wisconsin-Madison!
 Some topics that intersest me are robotics, artificial intelligence, and data analysis.
 
-I am most fluent in Java, however, I have some experinces in C# and C++ and have started learning Python recently. Always exited to learn new
-languages and topics!
+I am most fluent in Java, however, I have experince with Python, C#, and C++. Always exited to learn new languages and topics!
 
 [LinkedIn](https://www.linkedin.com/in/darren-seubert-00204a173)
 
