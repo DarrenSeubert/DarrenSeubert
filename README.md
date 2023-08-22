@@ -5,7 +5,7 @@ Some topics that interest me are robotics, artificial intelligence, and data ana
 
 I am most fluent in Java, however, I have experience with Python, C#, and C++. Always excited to learn new languages and topics!
 
-[LinkedIn](https://www.linkedin.com/in/darren-seubert-00204a173)
+[LinkedIn](https://www.linkedin.com/in/darrenseubert)
 
 <!--
 **DarrenSeubert/DarrenSeubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
