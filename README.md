@@ -1,23 +1,8 @@
 ### Hey! 👋
 
-My name is Darren Seubert, and I am a Computer Sciences and Data Science major with a Mathematics minor at the University of Wisconsin-Madison!
-Some topics that interest me are robotics, artificial intelligence, and data analysis.
+My name is Darren Seubert, and I am a student graduating in May of 2024 from The University of Wisconsin-Madison with degrees in Computer Sciences and Data Science as well as a minor in Mathematics.
+Some topics that interest me are robotics, machine learning, game design, and data analysis.
 
-I am most fluent in Java, however, I have experience with Python, C#, and C++. Always excited to learn new languages and topics!
+I enjoy working in Java, Python, C, R, C#, and C++. Always excited to learn new skills, languages, and topics!
 
 [LinkedIn](https://www.linkedin.com/in/darrenseubert)
-
-<!--
-**DarrenSeubert/DarrenSeubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
